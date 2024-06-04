@@ -1,0 +1,4 @@
+b725425cd720bd0524eb5d1539421486
+https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
+https://api.openweathermap.org/data/2.5/weather?q=karachi&appid=b725425cd720bd0524eb5d1539421486&units=metric
+units=metric
